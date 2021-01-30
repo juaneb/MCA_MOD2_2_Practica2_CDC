@@ -1,4 +1,4 @@
-package es.codeurjc.mastercloudapps.topo;
+package es.codeurjc.mastercloudapps.planner;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

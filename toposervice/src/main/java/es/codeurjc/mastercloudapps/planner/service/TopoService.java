@@ -1,6 +1,6 @@
-package es.codeurjc.mastercloudapps.topo.service;
+package es.codeurjc.mastercloudapps.planner.service;
 
-import es.codeurjc.mastercloudapps.topo.model.City;
+import es.codeurjc.mastercloudapps.planner.model.City;
 import org.springframework.stereotype.Service;
 
 import java.util.concurrent.ConcurrentHashMap;

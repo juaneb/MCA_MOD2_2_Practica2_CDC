@@ -1,4 +1,4 @@
-package es.codeurjc.mastercloudapps.topo.model;
+package es.codeurjc.mastercloudapps.planner.model;
 
 public class CityDTO {
 

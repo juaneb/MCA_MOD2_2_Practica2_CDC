@@ -1,8 +1,8 @@
-package es.codeurjc.mastercloudapps.topo.controller;
+package es.codeurjc.mastercloudapps.planner.controller;
 
-import es.codeurjc.mastercloudapps.topo.model.City;
-import es.codeurjc.mastercloudapps.topo.model.CityDTO;
-import es.codeurjc.mastercloudapps.topo.service.TopoService;
+import es.codeurjc.mastercloudapps.planner.model.City;
+import es.codeurjc.mastercloudapps.planner.model.CityDTO;
+import es.codeurjc.mastercloudapps.planner.service.TopoService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
